@@ -12,7 +12,7 @@
 该系统功能完善，界面美观，非常适合作为毕设或者课程作业以及新手开发学习。<br>
 
 ## 功能介绍
-<img src="./images/gn.png" width="600" height="400" /><br>
+<img src="./images/gn.png" width="600" height="600" /><br>
 
 ## 技术服务
 <img src="./images/my.jpg" width="200" height="260" />
